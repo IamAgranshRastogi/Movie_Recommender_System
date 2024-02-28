@@ -98,4 +98,4 @@ def recommend(movie):
 
 ## Conclusion
 
-This Movie Recommender System provides a simple and user-friendly way to discover new movies based on user preferences. The collaborative filtering approach ensures personalized recommendations for a more engaging movie-watching experience.
+This Movie Recommender System provides a simple and user-friendly way to discover new movies based on user preferences. The content based approach ensures personalized recommendations for a more engaging movie-watching experience.
