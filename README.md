@@ -96,6 +96,9 @@ def recommend(movie):
 - Button to trigger movie recommendations.
 - Display of recommended movies with titles and posters.
 
+## Dataset Links
+- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+
 ## Conclusion
 
 This Movie Recommender System provides a simple and user-friendly way to discover new movies based on user preferences. The content based approach ensures personalized recommendations for a more engaging movie-watching experience.
